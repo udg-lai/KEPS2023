@@ -105,7 +105,6 @@
         (next loc_5_4 loc_5_5 up)
         (next loc_5_5 loc_4_5 left)
         (next loc_5_5 loc_5_4 down)
-        (character_at loc_1_3)
         (ball_at ball_0 loc_1_2)
         (ball_size_large ball_0)
         (ball_at ball_1 loc_1_4)

@@ -306,7 +306,6 @@
         (next loc_23_2 loc_23_1 dir_down)
         (next loc_23_3 loc_22_3 dir_left)
         (next loc_23_3 loc_23_2 dir_down)
-        (character_at loc_12_2)
         (ball_at ball_0 loc_2_2)
         (ball_size_small ball_0)
         (ball_at ball_1 loc_5_2)
